@@ -1,1 +1,4 @@
 tHIS IS AREA FILE!
+
+
+Text file notepad!!
